@@ -44,27 +44,8 @@ It includes **JWT-based authentication**, **REST APIs**, and **Docker support** 
 ---
 
 ## 🧩 Project Architecture
-video-streaming-app/
-│
-├── backend/
-│   ├── src/
-│   │   ├── main/java/com/aashish/streamapp/
-│   │   └── resources/
-│   └── pom.xml
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── assets/
-│   ├── upload-page.png
-│   ├── video-player.png
-│   └── architecture.png
-│
-├── Dockerfile
-├── README.md
-└── .gitignore
+<img width="556" height="610" alt="image" src="https://github.com/user-attachments/assets/61aec1c0-d862-49c6-8d0d-7a5f6a2b5f33" />
+
 
 ---
 
